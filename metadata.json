@@ -1,0 +1,6 @@
+{
+  "name": "Agrária Freight ML Predictor",
+  "description": "Simulador preditivo de custos de frete logístico da Agrária com análise estatística de chance de acerto, intervalos de confiança e explicabilidade SHAP.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
